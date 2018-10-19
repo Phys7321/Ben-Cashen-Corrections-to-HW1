@@ -1,0 +1,4 @@
+10.18
+Challenge #1 looks good. I would just point out that it's always a good idea to tweak the graph to make it as clear as possible (referring to the MATLAB graph, which is a little tight towards the axes (yes, this is a very picky detail)). And when using fprintf or sprintf, it's a good idea to end with a new line character '\n'
+AND homework 1 looks good - BUT I want you to do one more thing in the python file Deriv.py - write the syntax so all the plots are visible, right now each plot overwrites the previous one.
+I'll look at your HW2 tomorrow (I'm assuming that you made corrections to that one.), my spouse is yelling for me to stop working.
